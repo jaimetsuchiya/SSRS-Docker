@@ -1,4 +1,4 @@
-FROM microsoft/mssql-server-windows-developer
+FROM advitec/mssql-server-windows-developer
 
 LABEL  Name=SSRS Version=0.0.4 maintainer="Geoff W"
 
